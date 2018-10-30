@@ -1,0 +1,44 @@
+S > NP VP
+NP > N PP
+NP > AP N PP
+NP > PosP N PP
+NP > D N PP
+NP > PosP AP N PP
+NP > D AP N PP
+NP > N
+NP > AP N
+NP > PosP N
+NP > D N
+NP > PosP AP N
+NP > D AP N
+NP > N PP PP
+NP > AP N PP PP
+NP > PosP N PP PP
+NP > D N PP PP
+NP > PosP AP N PP PP
+NP > D AP N PP PP
+NP > NP PP
+AP > A
+AP > Deg A
+AP > A PP
+AP > Deg A PP
+AP > A PP PP
+AP > Deg A PP PP
+PosP > NP Pos
+PP > P NP
+VP > V
+VP > V NP
+VP > V NP AP
+VP > V AP
+VP > V PP
+VP > V NP PP
+VP > V NP AP PP
+VP > V AP PP
+VP > V PP PP
+VP > V NP PP PP
+VP > V NP AP PP PP
+VP > V AP PP PP
+VP > VP PP
+VP > VP AdvP
+AdvP > Deg Adv
+AdvP > Adv
